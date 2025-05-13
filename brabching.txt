@@ -1,0 +1,5 @@
+Branching steps 
+1. git branch ---- to checkout how many branch's are there
+2. git branch "add branch name " to create branch's
+3.to switch branch's from  "x" to "y" we can write 
+git switch y 
