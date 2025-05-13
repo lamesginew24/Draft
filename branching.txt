@@ -1,0 +1,16 @@
+* if we need create branch's we have to use the following steps 
+1. git branch shows branch's 
+2. git branch <branch name>
+    git branch <branch name >
+    git branch <branch name >
+3. git branch ---- to show all branch's of available 
+4. git checkout ---- to change/switch the other one branch 
+
+
+   
+we have to switch branch's and then 
+first
+1. git add . ==== add 
+2. git commit -m "commit dev branch"
+3. git status 
+4. git push -u origin dev
